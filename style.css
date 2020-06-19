@@ -1,0 +1,443 @@
+.top{
+    width: 1496px;
+    height: 45px;
+    background-color: rgb(47, 60, 72);
+    margin-top: -25px;
+    margin-left: -10px;
+    color:whitesmoke;
+    padding-top: 30px;
+}
+.fa-bars{
+    padding-left: 15px;
+}
+.sap{
+    padding-left:3px ;
+    font-weight: 900;
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.cloud{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.fa-calendar-minus{
+    margin-left: 950px;
+    color: #CAE4FD;
+
+}
+.fa-file-invoice{
+    margin-left: 25px;
+    color: #CAE4FD;
+}
+.ad{
+    margin-left:20px;
+    color: #CAE4FD;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fa-chevron-down{
+    margin-left: 5px;
+}
+.leftbar{
+    height: 690px;
+    width: 250px;
+    margin-left: -10px;
+    background-color: rgb(63,81,97);
+    
+}
+.leftbar i{
+    color: #CAE4FD;
+    text-shadow: 0 0px 2px;
+}
+.leftlist{
+    display: flex;
+    list-style-type: none;
+}
+.app{
+    border: 1px dotted whitesmoke;
+    height: 30px;
+    width: 243px;
+    padding-top:10px ;
+    padding-left: 5px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-box{
+    margin-right: 7px;
+}
+.services{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fa-puzzle-piece{
+    margin-right: 3px;
+}
+.leftbar .services .fa-chevron-down{
+    margin-left: 110px;
+}
+.market{
+    height: 30px;
+    width: 217px;
+    padding-top:  10px ;
+    padding-left: 33px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #496B8A;
+    
+}
+.instance{
+    height: 30px;
+    width: 217px;
+    padding-top:  10px ;
+    padding-left: 33px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #394958;
+    
+}
+.user{
+    height: 30px;
+    width: 204px;
+    padding-top:  10px ;
+    padding-left: 43px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #394958;
+}
+.saphana{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-cube{
+    margin-right: 6px;
+}
+.fa-chevron-right{
+    margin-left: 90px;
+}
+.portal{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-border-all{
+    margin-right: 8px;
+}
+.routes{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-bullseye{
+    margin-right: 7px;
+}
+.secgroup{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-user-lock{
+    margin-right: 3px;
+}
+.events{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-calendar-check{
+    margin-right: 9px;
+}
+.members{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+    border-bottom: 1px solid #465A6C;
+
+}
+.fa-user-friends{
+    margin-right: 3px;
+}
+.useful{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 2px solid rgb(12, 134, 188);
+    
+}
+.fa-question-circle{
+    margin-right: 7px;
+}
+.legal{
+    height: 30px;
+    width: 243px;
+    padding-top:  10px ;
+    padding-left: 7px;
+    color: #f4f4f5;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 1px solid #465A6C;
+}
+.fa-balance-scale{
+    margin-right: 5px;
+
+}
+.content{
+    display: flex;
+
+}
+.content .contentsag{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    margin-left: 10px;
+    color:#4496C6;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.content .contentsag i,span{
+    margin-left: 10px;
+    font-size: 17px;
+}
+.content .contentsag .slash{
+    color: #E0E0E0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.content .contentsag .ust .ust2 span{
+    color: black;
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 22px;
+}
+.content .contentsag .ust .ust2 .fa-puzzle-piece{
+    color: black;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.content .contentsag .ust .ust2 .fa-question-circle{
+    margin-left: 800px;
+    font-size: 20px;
+}
+.content .contentsag .ust .ust3{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: gray;
+}
+.content .contentsag .ust .ust4 input{
+    margin-left: 950px;
+    width: 250px;
+    height: 25px; 
+    border:2px solid #dedede;
+}
+::placeholder{
+    font-style: italic;
+    padding: 5px;
+    padding-left: 10px;
+    text-shadow: 0 0px 1px;
+}
+.content .contentsag .alt{
+    background-color: #fafafa;
+    width: 1250px;
+    height: 215px;
+    margin-left: -10px;
+    display: flex;
+    flex-direction: row;
+}
+.content .contentsag .alt .api{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:18px;
+    margin-top: 18px;
+    box-shadow: 0 0px 1px gray;
+
+}
+.content .contentsag .altlar .alt .api{
+    padding-top: 10px;
+}
+.content .contentsag .alt .application{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:10px;
+    margin-top: 18px;
+    padding-top: 10px;
+    box-shadow: 0 0px 1px gray;
+}
+
+.content .contentsag .alt .api2{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:10px;
+    margin-top: 18px;
+    padding-top: 10px;
+    box-shadow: 0 0px 1px gray;
+}
+.content .contentsag .alt2{
+    background-color:#fafafa;
+    width: 1250px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    margin-left: -10px;
+}
+.content .contentsag .altlar{
+    display: flex;
+    flex-direction: column;
+}
+.content .contentsag .altlar .alt2 .api3{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:18px;
+    margin-top: 10px;
+    padding-top: 10px;
+    box-shadow: 0 0px 1px gray;
+}
+.content .contentsag .altlar .alt2 .api4{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    box-shadow: 0 0px 1px gray;
+}
+.content .contentsag .altlar .alt2 .api5{
+    background-color: rgb(255, 255, 255);
+    width: 310px;
+    height: 185px;
+    margin-left:10px;
+    margin-top: 10px;
+    padding-top: 10px;
+    box-shadow: 0 0px 1px gray;
+}
+.management{
+    color: gray;
+}
+.content .contentsag .altlar .alt .api .fa-project-diagram{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.icon{
+    display: flex;
+    flex-direction: row;
+}
+.paragraf{
+    color: black;
+    font-size: 15px;
+}
+.autoscaler{
+    color: gray;
+}
+.content .contentsag .altlar .alt .application .fa-laptop-code{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.icon2{
+    display: flex;
+    flex-direction: row;
+}
+.paragraf2{
+    color: black;
+    font-size: 15px;
+}
+.paragraf3{
+    color: black;
+}
+.content .contentsag .altlar .alt .api2 .fa-chart-bar{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.icon3{
+    display: flex;
+    flex-direction: row;
+}
+.xsuaa{
+    color: gray;
+}
+.paragraf4{
+    color: black;
+}
+.icon4{
+    display: flex;
+    flex-direction: row;
+}
+.content .contentsag .altlar .alt2 .api3 .fa-user-cog{
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.rules{
+    color: gray;
+}
+.paragraf5{
+    color: black;
+}
+.icon5{
+    display: flex;
+    flex-direction: row;
+}
+.content .contentsag .altlar .alt2 .api4 .icon5 .fa-puzzle-piece{
+    font-size: 30px;
+}
+.content .contentsag .altlar .alt2 .api4 .fa-puzzle-piece{
+    margin-right: 10px;
+    
+}
+.content .contentsag .altlar .alt2 .api4 #logo{
+   
+    margin-right: 10px;
+    margin-top: 5px;
+}
+.connectivity{
+    color: gray;
+}
+.paragraf6{
+    color: black;
+    font-size: 15px;
+}
+.icon6{
+    display: flex;
+    flex-direction: row;
+}
+.content .contentsag .altlar .alt2 .api5 .icon6 .fa-puzzle-piece{
+    font-size: 30px;
+}
+
+.content .contentsag .altlar .alt2 .api5 .fa-puzzle-piece{
+    margin-right: 10px;
+}
